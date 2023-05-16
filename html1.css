@@ -1,0 +1,14 @@
+ h1 { color: burlywood }
+ img { width: 550px;
+	   height: 350px;
+	   display: block;
+	   margin-left: auto;
+	   margin-right: auto;}
+ p {  display: block;
+	   margin-left: auto;
+	   margin-right: auto;}
+body { 
+	   background-image: url("view.jpg");
+       background-size: 100% 100%;
+       background-attachment: fixed;
+	   background-repeat:no-repeat;}
